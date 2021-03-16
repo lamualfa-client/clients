@@ -3,6 +3,7 @@
   "status": "active",
   "watermark": "<span>Developed by <a href='https://lamualfa.com/' style='font-weight: 600;'>Lamualfa.com</a></span>",
   "redirects": {
-    "illegal": "https://lamualfa.com/clients/status/illegal?clientId=tbi.co.id"
+    "illegal": "https://lamualfa.com/clients/status/illegal?clientId=tbi.co.id",
+    "unpaid": "https://lamualfa.com/clients/status/unpaid?clientId=tbi.co.id"
   }
 }
