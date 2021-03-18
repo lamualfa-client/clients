@@ -1,0 +1,9 @@
+{
+  "hostname": "ubs-usg.ac.id",
+  "status": "active",
+  "watermark": "<span>Developed by <a href='https://lamualfa.com/' style='font-weight: 600;'>Lamualfa.com</a></span>",
+  "links": {
+    "illegal": "https://lamualfa.com/clients/status/illegal?clientId=ubs-usg.ac.id",
+    "unpaid": "https://lamualfa.com/clients/status/unpaid?clientId=ubs-usg.ac.id"
+  }
+}
